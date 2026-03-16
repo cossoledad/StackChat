@@ -1,3 +1,3 @@
 # StackChat
 
-gRPC、Boost、jsoncpp、MySQL、Redis全栈C++聊天器
+gRPC、Boost、jsoncpp、MySQL、Redis C++ Chats
